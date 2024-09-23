@@ -8,7 +8,7 @@ h1
 {
     #titre1{ 
         text-align: top;
-        color:rgb(230, 219, 199);
+        color:rgb(0, 0, 0);
         letter-spacing: 10px;
         text-shadow: rgb(21, 21, 21) 5px 0 20px;
         font-size: 50px;
@@ -37,6 +37,10 @@ h1
         flex-direction: row;
         justify-content: center;
         align-items: center;
+        background-image: url(image5.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+            
       }
     #share a {
         background: rgb(121, 115, 115);
@@ -107,7 +111,7 @@ h1
     #adresse {
         text-align: center;
         font-size: 16px;
-        color:rgb(230, 219, 199);
+        color:rgb(0, 0, 0);
         letter-spacing: 1px;
         text-shadow: rgb(21, 21, 21) 15px 0 20px;
         margin: 10px;
